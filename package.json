@@ -8,8 +8,7 @@
     "commenting",
     "disqus"
   ],
-  "main": "dist/commentBox.min.js",
-  "module": "src/commentBox.js",
+  "module": "dist/commentBox.min.js",
   "scripts": {
     "start": "webpack"
   },
